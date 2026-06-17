@@ -25,5 +25,11 @@ Data can be exported as a CSV file for reporting
 🎯 Purpose
 This project was created to practice frontend development fundamentals including layout design, DOM manipulation, event handling, and interactive UI building.
 
+
+🌐Live demo link :
+
+https://mnidhanya.github.io/Exam-hall-system-/
+
+
 👨‍💻 Developer
 Developed by: Dhanya M
